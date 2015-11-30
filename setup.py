@@ -7,7 +7,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(name='forum',
-	version='0.0.1',
+	version='0.0.2',
 	description='Forum dapp library',
 	author='Davide Gessa',
 	setup_requires='setuptools',
